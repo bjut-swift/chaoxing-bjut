@@ -1,6 +1,6 @@
 # 北京工业大学-学习通任务一览
 
-> This project is barely an adaptation of [lcandy2's work](https://github.com/lcandy2/user.js/tree/main/websites/chaoxing.com/chaoxing-assignmentto) for the BJUT Chaoxing platform. The original implementation has been modified and enhanced to better suit our specific needs.
+> This project is barely an adaptation of [lcandy2's work](https://github.com/lcandy2/user.js/tree/main/websites/chaoxing.com/chaoxing-assignment) for the BJUT Chaoxing platform. The original implementation has been modified and enhanced to better suit our specific needs.
 
 - **支持作业、考试列表电脑端快速查看，绝不错过任何作业与考试**
 - **【💡操作简单】** 学习通任务一览，无需任何配置，安装即可使用。
